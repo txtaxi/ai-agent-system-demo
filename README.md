@@ -239,6 +239,9 @@ enterprise-ai-agent-system/
 6. [docs/learning/06-前端页面交互流程讲解.md](./docs/learning/06-前端页面交互流程讲解.md)
 7. [docs/learning/07-数据库设计精读.md](./docs/learning/07-数据库设计精读.md)
 8. [docs/learning/08-LangGraph工作流节点精讲.md](./docs/learning/08-LangGraph工作流节点精讲.md)
+9. [docs/learning/09-能力演化与开发细节.md](./docs/learning/09-能力演化与开发细节.md)
+10. [docs/learning/10-Agent工程方法论.md](./docs/learning/10-Agent工程方法论.md)
+11. [docs/learning/11-RAG类Agent关键能力拆解.md](./docs/learning/11-RAG类Agent关键能力拆解.md)
 
 ## 当前阶段判断
 
